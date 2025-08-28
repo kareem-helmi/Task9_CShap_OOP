@@ -1,6 +1,3 @@
-﻿// Program.cs
-// Complete solutions for Part01, Part02, Part03 (problems) in one file.
-// Each section is commented in English to indicate which problem it addresses.
 
 using System;
 using System.Collections.Generic;
@@ -287,4 +284,5 @@ namespace FullAssignment
         }
     }
 }
+
 
